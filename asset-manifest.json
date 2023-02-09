@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Archer_Forest/static/css/main.7acaea2f.css",
+    "main.js": "/Archer_Forest/static/js/main.5cc4422b.js",
+    "index.html": "/Archer_Forest/index.html",
+    "main.7acaea2f.css.map": "/Archer_Forest/static/css/main.7acaea2f.css.map",
+    "main.5cc4422b.js.map": "/Archer_Forest/static/js/main.5cc4422b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.5cc4422b.js"
+  ]
+}
