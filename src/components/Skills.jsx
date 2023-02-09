@@ -1,6 +1,7 @@
 export const Skills = () => {
   const imgStyle = {
     marginLeft: 'auto',
+    marginTop: 'auto',
   };
   return (
     <div>
