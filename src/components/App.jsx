@@ -1,3 +1,5 @@
+import { Skills } from './Skills';
+
 export const App = () => {
   return (
     <div
@@ -5,12 +7,13 @@ export const App = () => {
         height: '100vh',
         display: 'flex',
         justifyContent: 'center',
-        alignItems: 'center',
+        alignItems: 'start',
         fontSize: 40,
-        color: '#010101'
+        color: '#010101',
       }}
     >
-      React homework template
+      Archer Forest Sandbox
+      <Skills></Skills>
     </div>
   );
 };
